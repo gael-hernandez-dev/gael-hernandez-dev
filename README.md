@@ -1,4 +1,4 @@
-# Hola, soy Gael Hernández 👋
+# Hola, soy Dilan Gael Hernández 👋
 
 Estudiante de **Ingeniería en Tecnologías de la Información** enfocado en el desarrollo web full-stack, bases de datos relacionales y prototipado de sistemas embebidos e IoT.
 
@@ -12,7 +12,6 @@ Estudiante de **Ingeniería en Tecnologías de la Información** enfocado en el 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Bases de Datos y Herramientas**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,14 +23,6 @@ Estudiante de **Ingeniería en Tecnologías de la Información** enfocado en el 
 **Sistemas Embebidos y Hardware**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
----
-
-### 🚀 En qué estoy trabajando ahora
-- 🔭 Desarrollando aplicaciones web dinámicas y APIs REST conectadas a PostgreSQL.
-- ⚡ Creando prototipos de automatización, telemetría y procesamiento de sensores con ESP32 y Arduino.
-- 🌱 Profundizando en arquitectura de software, redes y despliegue de servicios.
 
 ---
 
